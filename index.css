@@ -1,0 +1,11 @@
+.list-container {
+    overflow-x: scroll;
+    white-space: nowrap;
+  }
+  
+  .list {
+    display: inline-block;
+    width: 300px; /* Adjust the width as per your requirements */
+    /* Other styles */
+  }
+  
